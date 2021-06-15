@@ -75,10 +75,10 @@ You will get pop-up confirming that transaction has been sent.
 If you want to run LBRY Vault on MacOS follow this steps:
 
 1. Open terminal.
-2. Clone repository with git clone https://github.com/kodxana/LBRY-Vault
-3. Enter directory with command cd LBRY-Vault
-4. Download and install Python 3.6.4 https://www.python.org/ftp/python/3.6.4/python-3.6.4-macosx10.6.pkg
-5. Enter command python3 -m pip install --user .
+2. Clone repository with ``git clone https://github.com/kodxana/LBRY-Vault``
+3. Enter directory with command ``cd LBRY-Vault``
+4. Download and install [Python 3.6.4](https://www.python.org/ftp/python/3.6.4/python-3.6.4-macosx10.6.pkg)
+5. Enter command ``python3 -m pip install --user .``
 
 After that you can run LBRY Vault by using ``./run_electrum``
 
