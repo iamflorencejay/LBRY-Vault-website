@@ -61,12 +61,15 @@ Check if the amount and address match the LBRY Vault.
 ![Amount](assets/img/amount-lbc1.jpg)
 
 If everything is the same as in the LBRY Vault app you can press accept.
+
 ![Accept](assets/img/accept.jpg)
 
 The next step is to check and approve fees.
+
 ![Fees](assets/img/fees.jpg)
 
 If everything is correct you can confirm transaction.
+
 ![Accept](assets/img/accept-and-send.jpg)
 
 You will get pop-up confirming that transaction has been sent.
