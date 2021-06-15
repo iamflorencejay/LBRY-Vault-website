@@ -85,6 +85,7 @@ After that you can run LBRY Vault by using ``./run_electrum``
 # Troubleshooting
 
 If you have problems with connecting to LBRY Spv1 Wallet server, try community hosted wallet server compatible with LBRY Vault.
+
 spv1.allaboutlbc.com:50001 - Hosted by Madiator2011
 
 # Support
