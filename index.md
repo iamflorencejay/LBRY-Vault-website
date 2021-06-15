@@ -91,7 +91,7 @@ spv1.allaboutlbc.com:50001 - Hosted by Madiator2011
 # Support
 
 If you have problems with setup of LBRY Vault you can reach us at:
-- Discord - https://chat.lbry.com/
-- Telegram - https://t.me/lbryofficial
-- Twitter - https://twitter.com/lbryio
-- Reddit - https://www.reddit.com/r/lbry
+- [Discord](https://chat.lbry.com/)
+- [Telegram](https://t.me/lbryofficial)
+- [Twitter](https://twitter.com/LBRYcom)
+- [Reddit](https://www.reddit.com/r/lbry)
