@@ -7,7 +7,7 @@ A [Ledger Device](https://www.ledger.com/products/ledger-nano-s&sa=D&ust=1582572
 - The [latest firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware&sa=D&ust=1582572545403000) is installed
 - [Ledger Live](https://support.ledger.com/hc/en-us/articles/360006395233-Take-your-first-steps&sa=D&ust=1582572545403000) is ready to use
 - Latest version of Bitcoin app installed via Ledger Live
-- LBRY Vault (Download)
+- [LBRY Vault](https://github.com/LBRYFoundation/LBRY-Vault/releases)
 
 # Install the LBRY app on Ledger Nano S/X
 
@@ -89,7 +89,7 @@ After that you can run LBRY Vault by using ``./run_electrum``
 
 If you have problems with connecting to LBRY Spv1 Wallet server, try community hosted wallet server compatible with LBRY Vault.
 
-spv1.allaboutlbc.com:50001 - Hosted by Madiator2011
+|spv1.allaboutlbc.com:50001 | Hosted by Madiator2011|
 
 # Support
 
