@@ -1,3 +1,6 @@
+---
+title: LBRY Vault
+---
 # LBRY Vault Guide for Ledger Devices
 
 A [Ledger Device](https://www.ledger.com/products/ledger-nano-s&sa=D&ust=1582572545402000) is a hardware wallet. Hardware wallets are considered very secure for the storage of a user’s private keys in the blockchain world. Your digital assets are safe even when using an infected (or untrusted) PC.
