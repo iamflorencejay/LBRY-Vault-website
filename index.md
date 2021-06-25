@@ -68,7 +68,7 @@ If you want to setup Multi Signature wallet follow [this guide.](https://lbry.co
 3. Press “On-chain” button;
 4. The address you need to send LBC to will show up on the right side of the screen.
 
-## Send LBRY Credits (LBC) through Ledger device
+## Send LBRY Credits (LBC) through your Ledger device
 
 1. Open LBRY Vault app;
 2. On Ledger device open LBRY App;
@@ -103,7 +103,7 @@ You will get pop-up confirming that transaction has been sent.
 - [Trezor Bridge](https://wallet.trezor.io/#/bridge/) is installed
 - [LBRY Vault is downloaded and installed](https://github.com/LBRYFoundation/LBRY-Vault/releases)
 
-## Use your Ledger device with LBRY Vault
+## Use your Trezor device with LBRY Vault
 > **NOTE: Currently to store, you need to use modified version of Electrum app which has been modified to support LBC.**
 
 1. Simply connect your Trezor device;
@@ -113,11 +113,26 @@ You will get pop-up confirming that transaction has been sent.
 5. Chose “Standard wallet” and press next;
 6. Make sure your Ledger device is plugged in and select “Use a hardware device”;
 7. On the next screen choose your Ledger device and press next;
-8. Choose “Legacy” and press next;
-9. Select “Encrypt wallet file” and press next;
-10. Type your PIN Code on your Trezor Wallet;
-11. 
+8. Type your PIN Code on your Trezor Wallet;
+9. Enter your desired passphrase. Note that if you forgot your passphrase, all of your funds are a goner.
+10. Check your Trezor Device for the "Access Hidden Wallet" prompt, and click "Next";
+11. Check if the passphrase is correct, and click "Confirm";
+12. Choose “Legacy” and press next;
+13. Select “Encrypt wallet file” and press next;
 
+## Receive LBRY Credits (LBC) through your Trezor device
+> **NOTE: It is important to test a single small transaction incoming and outgoing before using the wallet to store larger amounts.**
+
+1. Open LBRY Vault app;
+2. Go to receive tab;
+3. Press “On-chain” button;
+4. The address you need to send LBC to will show up on the right side of the screen.
+
+## Send LBRY Credits (LBC) through your Trezor device
+
+1. Open LBRY Vault app;
+2. On your LBRY Vault app, go to Send tab; 
+3. Insert LBC address and amount and press Pay;
 ---
 ## Troubleshooting
 If you have problems with connecting to LBRY Spv1 Wallet server, try community hosted wallet server compatible with LBRY Vault.
