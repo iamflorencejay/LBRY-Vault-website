@@ -1,19 +1,20 @@
 ---
 title: LBRY Vault
 ---
-# LBRY Vault Guide for Ledger Devices
+# LBRY Vault Guide for Hardware Wallet
 
-A [Ledger Device](https://www.ledger.com/products/ledger-nano-s&sa=D&ust=1582572545402000) is a hardware wallet. Hardware wallets are considered very secure for the storage of a user’s private keys in the blockchain world. Your digital assets are safe even when using an infected (or untrusted) PC.
+A Hardware wallet are considered as a very secure storage device of a user’s private keys in the blockchain world. Your digital assets are safe even when using an infected (or untrusted) PC, data breaches of password managers and cloud storage providers.
 
-# Before you begin
+# Install the LBRY Vault app on Ledger Nano S/X
+
+## Before you begin
 - You have [initialized](https://support.ledgerwallet.com/hc/en-us/articles/360000613793&sa=D&ust=1582572545402000) your Ledger Device (supported Nano S and Nano X)
 - The [latest firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware&sa=D&ust=1582572545403000) is installed
 - [Ledger Live](https://support.ledger.com/hc/en-us/articles/360006395233-Take-your-first-steps&sa=D&ust=1582572545403000) is ready to use
 - Latest version of Bitcoin app installed via Ledger Live
 - [LBRY Vault](https://github.com/LBRYFoundation/LBRY-Vault/releases)
 
-# Install the LBRY app on Ledger Nano S/X
-
+## Instructions
 1. Open the Manager in Ledger Live.
 2. Connect and unlock your Ledger Nano S.
 3. If asked, allow the manager on your device by pressing the right button.
