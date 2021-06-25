@@ -40,7 +40,7 @@ After that you can run LBRY Vault by using ``./run_electrum``
 If you want to setup Multi Signature wallet follow [this guide.](https://lbry.com/faq/multisig)
 
 ## Use your Ledger device with LBRY Vault
-Currently to store you need to use modified version of Electrum app which has been modified to support LBRY Credits.
+> **Currently to store you need to use modified version of Electrum app which has been modified to support LBC.**
 
 1. Simply connect and unlock your Ledger device;
 2. Open the LBRY app on the device;
@@ -54,8 +54,7 @@ Currently to store you need to use modified version of Electrum app which has be
 10. Select “Encrypt wallet file” and press next;
 
 # Receive LBRY Credits (LBC) through Ledger device
-
-It is important to test a single small transaction incoming and outgoing before using the wallet to store larger amounts.
+> **NOTE: It is important to test a single small transaction incoming and outgoing before using the wallet to store larger amounts.**
 
 1. Open LBRY Vault app;
 2. Go to receive tab;
