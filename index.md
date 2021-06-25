@@ -22,7 +22,7 @@ If you want to run LBRY Vault on MacOS follow this steps:
 
 After that you can run LBRY Vault by using ``./run_electrum``
 
-## Running LBRY Vault on Windows
+## Running LBRY Vault on Linux
 Download the latest version of LBRY Vault [on the releases tab](https://github.com/LBRYFoundation/LBRY-Vault/releases), and just run it directly.
 And you're done!
 
