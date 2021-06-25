@@ -25,9 +25,7 @@ After that you can run LBRY Vault by using ``./run_electrum``
 ## Running LBRY Vault on Linux
 Download the latest version of LBRY Vault [on the releases tab](https://github.com/LBRYFoundation/LBRY-Vault/releases), and just run it directly.
 And you're done!
-
 ---
-
 # Install the LBRY Vault app on Ledger Devices
 ### Before you begin
 - You have [initialized](https://support.ledgerwallet.com/hc/en-us/articles/360000613793&sa=D&ust=1582572545402000) your Ledger Device (supported Nano S and Nano X)
@@ -97,9 +95,16 @@ If everything is correct you can confirm transaction.
 ![Accept](assets/img/accept-and-send.jpg)
 
 You will get pop-up confirming that transaction has been sent.
+---
+# Install LBRY Vault on Trezor Devices
+### Before you begin
+- You have [initialized](https://support.ledgerwallet.com/hc/en-us/articles/360000613793&sa=D&ust=1582572545402000) your Ledger Device (supported Nano S and Nano X)
+- The [latest firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware&sa=D&ust=1582572545403000) is installed
+- [Ledger Live](https://support.ledger.com/hc/en-us/articles/360006395233-Take-your-first-steps&sa=D&ust=1582572545403000) is ready to use
+- Latest version of Bitcoin app installed via Ledger Live
+- [LBRY Vault](https://github.com/LBRYFoundation/LBRY-Vault/releases)
 
 ---
-
 ## Troubleshooting
 If you have problems with connecting to LBRY Spv1 Wallet server, try community hosted wallet server compatible with LBRY Vault.
 
