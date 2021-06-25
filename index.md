@@ -95,14 +95,12 @@ You will get pop-up confirming that transaction has been sent.
 
 ---
 
-# Troubleshooting
-
+## Troubleshooting
 If you have problems with connecting to LBRY Spv1 Wallet server, try community hosted wallet server compatible with LBRY Vault.
 
 |spv1.allaboutlbc.com:50001 | Hosted by Madiator2011|
 
-# Support
-
+## Support
 If you have problems with setup of LBRY Vault you can reach us at:
 - [Discord](https://chat.lbry.com/)
 - [Telegram](https://t.me/lbryofficial)
