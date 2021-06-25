@@ -5,8 +5,21 @@ title: LBRY Vault
 
 A Hardware wallet are considered as a very secure storage device of a user’s private keys in the blockchain world. Your digital assets are safe even when using an infected (or untrusted) PC, data breaches of password managers and cloud storage providers.
 
-# Install the LBRY Vault app on Ledger Nano S/X
+## Running LBRY Vault on Windows
 
+
+## Running LBRY Vault on MacOS
+If you want to run LBRY Vault on MacOS follow this steps:
+
+1. Open terminal.
+2. Clone repository with ``git clone https://github.com/kodxana/LBRY-Vault``
+3. Enter directory with command ``cd LBRY-Vault``
+4. Download and install [Python 3.6.4](https://www.python.org/ftp/python/3.6.4/python-3.6.4-macosx10.6.pkg)
+5. Enter command ``python3 -m pip install --user .``
+
+After that you can run LBRY Vault by using ``./run_electrum``
+
+# Install the LBRY Vault app on Ledger Devices
 ### Before you begin
 - You have [initialized](https://support.ledgerwallet.com/hc/en-us/articles/360000613793&sa=D&ust=1582572545402000) your Ledger Device (supported Nano S and Nano X)
 - The [latest firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware&sa=D&ust=1582572545403000) is installed
@@ -27,7 +40,6 @@ A Hardware wallet are considered as a very secure storage device of a user’s p
 If you want to setup Multi Signature wallet follow [this guide.](https://lbry.com/faq/multisig)
 
 ## Use your Ledger device with LBRY Vault
-
 Currently to store you need to use modified version of Electrum app which has been modified to support LBRY Credits.
 
 1. Simply connect and unlock your Ledger device;
@@ -77,17 +89,6 @@ If everything is correct you can confirm transaction.
 ![Accept](assets/img/accept-and-send.jpg)
 
 You will get pop-up confirming that transaction has been sent.
-
-# Running on MacOS
-If you want to run LBRY Vault on MacOS follow this steps:
-
-1. Open terminal.
-2. Clone repository with ``git clone https://github.com/kodxana/LBRY-Vault``
-3. Enter directory with command ``cd LBRY-Vault``
-4. Download and install [Python 3.6.4](https://www.python.org/ftp/python/3.6.4/python-3.6.4-macosx10.6.pkg)
-5. Enter command ``python3 -m pip install --user .``
-
-After that you can run LBRY Vault by using ``./run_electrum``
 
 # Troubleshooting
 
