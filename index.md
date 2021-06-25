@@ -5,6 +5,8 @@ title: LBRY Vault
 
 A Hardware wallet are considered as a very secure storage device of a user’s private keys in the blockchain world. Your digital assets are safe even when using an infected (or untrusted) PC, data breaches of password managers and cloud storage providers.
 
+---
+
 ## Running LBRY Vault on Windows
 
 
@@ -18,6 +20,8 @@ If you want to run LBRY Vault on MacOS follow this steps:
 5. Enter command ``python3 -m pip install --user .``
 
 After that you can run LBRY Vault by using ``./run_electrum``
+
+---
 
 # Install the LBRY Vault app on Ledger Devices
 ### Before you begin
@@ -40,7 +44,7 @@ After that you can run LBRY Vault by using ``./run_electrum``
 If you want to setup Multi Signature wallet follow [this guide.](https://lbry.com/faq/multisig)
 
 ## Use your Ledger device with LBRY Vault
-> **Currently to store you need to use modified version of Electrum app which has been modified to support LBC.**
+> **NOTE: Currently to store, you need to use modified version of Electrum app which has been modified to support LBC.**
 
 1. Simply connect and unlock your Ledger device;
 2. Open the LBRY app on the device;
@@ -53,7 +57,7 @@ If you want to setup Multi Signature wallet follow [this guide.](https://lbry.co
 9. Choose “Legacy” and press next;
 10. Select “Encrypt wallet file” and press next;
 
-# Receive LBRY Credits (LBC) through Ledger device
+## Receive LBRY Credits (LBC) through your Ledger device
 > **NOTE: It is important to test a single small transaction incoming and outgoing before using the wallet to store larger amounts.**
 
 1. Open LBRY Vault app;
@@ -88,6 +92,8 @@ If everything is correct you can confirm transaction.
 ![Accept](assets/img/accept-and-send.jpg)
 
 You will get pop-up confirming that transaction has been sent.
+
+---
 
 # Troubleshooting
 
