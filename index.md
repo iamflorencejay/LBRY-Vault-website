@@ -7,14 +7,14 @@ A Hardware wallet are considered as a very secure storage device of a user’s p
 
 # Install the LBRY Vault app on Ledger Nano S/X
 
-## Before you begin
+### Before you begin
 - You have [initialized](https://support.ledgerwallet.com/hc/en-us/articles/360000613793&sa=D&ust=1582572545402000) your Ledger Device (supported Nano S and Nano X)
 - The [latest firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware&sa=D&ust=1582572545403000) is installed
 - [Ledger Live](https://support.ledger.com/hc/en-us/articles/360006395233-Take-your-first-steps&sa=D&ust=1582572545403000) is ready to use
 - Latest version of Bitcoin app installed via Ledger Live
 - [LBRY Vault](https://github.com/LBRYFoundation/LBRY-Vault/releases)
 
-## Instructions
+### Instructions
 1. Open the Manager in Ledger Live.
 2. Connect and unlock your Ledger Nano S.
 3. If asked, allow the manager on your device by pressing the right button.
@@ -26,7 +26,7 @@ A Hardware wallet are considered as a very secure storage device of a user’s p
 
 If you want to setup Multi Signature wallet follow [this guide.](https://lbry.com/faq/multisig)
 
-# Use Ledger device with LBRY Vault
+## Use your Ledger device with LBRY Vault
 
 Currently to store you need to use modified version of Electrum app which has been modified to support LBRY Credits.
 
