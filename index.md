@@ -32,7 +32,7 @@ And you're done!
 - The [latest firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware&sa=D&ust=1582572545403000) is installed
 - [Ledger Live](https://support.ledger.com/hc/en-us/articles/360006395233-Take-your-first-steps&sa=D&ust=1582572545403000) is ready to use
 - Latest version of Bitcoin app installed via Ledger Live
-- [LBRY Vault](https://github.com/LBRYFoundation/LBRY-Vault/releases)
+- [LBRY Vault is downloaded and installed](https://github.com/LBRYFoundation/LBRY-Vault/releases)
 
 ### Instructions
 1. Open the Manager in Ledger Live.
@@ -98,11 +98,25 @@ You will get pop-up confirming that transaction has been sent.
 ---
 # Install LBRY Vault on Trezor Devices
 ### Before you begin
-- You have [initialized](https://support.ledgerwallet.com/hc/en-us/articles/360000613793&sa=D&ust=1582572545402000) your Ledger Device (supported Nano S and Nano X)
-- The [latest firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware&sa=D&ust=1582572545403000) is installed
-- [Ledger Live](https://support.ledger.com/hc/en-us/articles/360006395233-Take-your-first-steps&sa=D&ust=1582572545403000) is ready to use
-- Latest version of Bitcoin app installed via Ledger Live
-- [LBRY Vault](https://github.com/LBRYFoundation/LBRY-Vault/releases)
+- You have [finished the setup](https://trezor.io/setup) of your Trezor Device (Model One and Model T)
+- The [latest firmware](https://wiki.trezor.io/User_manual:Updating_the_Trezor_device_firmware) is installed
+- [Trezor Bridge](https://wallet.trezor.io/#/bridge/) is installed
+- [LBRY Vault is downloaded and installed](https://github.com/LBRYFoundation/LBRY-Vault/releases)
+
+## Use your Ledger device with LBRY Vault
+> **NOTE: Currently to store, you need to use modified version of Electrum app which has been modified to support LBC.**
+
+1. Simply connect your Trezor device;
+2. Open LBRY Vault app on PC;
+3. At the first screen select “Auto connect” and press next;
+4. On the next screen input name of your choice and press next;
+5. Chose “Standard wallet” and press next;
+6. Make sure your Ledger device is plugged in and select “Use a hardware device”;
+7. On the next screen choose your Ledger device and press next;
+8. Choose “Legacy” and press next;
+9. Select “Encrypt wallet file” and press next;
+10. Type your PIN Code on your Trezor Wallet;
+11. 
 
 ---
 ## Troubleshooting
