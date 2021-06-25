@@ -65,7 +65,7 @@ If you want to setup Multi Signature wallet follow [this guide.](https://lbry.co
 3. Press “On-chain” button;
 4. The address you need to send LBC to will show up on the right side of the screen.
 
-# Send LBRY Credits (LBC) through Ledger device
+## Send LBRY Credits (LBC) through Ledger device
 
 1. Open LBRY Vault app;
 2. On Ledger device open LBRY App;
