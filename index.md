@@ -8,7 +8,8 @@ A Hardware wallet are considered as a very secure storage device of a user’s p
 ---
 
 ## Running LBRY Vault on Windows
-
+Download the latest version of LBRY Vault [on the releases tab](https://github.com/LBRYFoundation/LBRY-Vault/releases), and install it.
+And you're done!
 
 ## Running LBRY Vault on MacOS
 If you want to run LBRY Vault on MacOS follow this steps:
@@ -20,6 +21,10 @@ If you want to run LBRY Vault on MacOS follow this steps:
 5. Enter command ``python3 -m pip install --user .``
 
 After that you can run LBRY Vault by using ``./run_electrum``
+
+## Running LBRY Vault on Windows
+Download the latest version of LBRY Vault [on the releases tab](https://github.com/LBRYFoundation/LBRY-Vault/releases), and just run it directly.
+And you're done!
 
 ---
 
